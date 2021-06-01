@@ -30,15 +30,17 @@ organizations:
     url: https://www.ox.ac.uk/
 education:
   courses:
-    - course: PhD in Genomic Medicine and Statistics
+    - course: PhD in Genomic Medicine and Statistics (2021 - )
       institution: University of Oxford
       year: ""
-    - course: MSc in Bioengineering (Bioinformatics and Machine Learning)
+    - course: MSc in Computer Science (2020 - )
+      institution: Georgia Institute of Technology
+    - course: MSc in Bioengineering (Bioinformatics and Machine Learning) (2019 - 2020)
       institution: King Abdullah University of Science and Technology
-      year: 2020
-    - course: BSc in Pharmacy
+      year: ""
+    - course: BSc in Pharmacy (2014 - 2018)
       institution: China Pharmaceutical University
-      year: 2017
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
