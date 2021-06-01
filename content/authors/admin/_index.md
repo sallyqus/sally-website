@@ -1,7 +1,7 @@
 ---
 title: Sisi Qu (Sally)
 role: PhD student @ Oxford
-avatar_filename: lcaqnur2_400x400.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include computational biology, AI4Health.
 interests:
   - Bioinformatics and Biostatistics
