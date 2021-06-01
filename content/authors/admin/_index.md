@@ -34,7 +34,7 @@ education:
       institution: University of Oxford
       year: ""
     - course: MSc in Bioengineering (Bioinformatics and Machine Learning)
-      institution: Massachusetts Institute of Technology
+      institution: King Abdullah University of Science and Technology
       year: 2020
     - course: BSc in Pharmacy
       institution: China Pharmaceutical University
